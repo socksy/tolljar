@@ -1,2 +1,4 @@
 authdetails.sh
-
+authdetails.sh.gpg
+*.swp
+*.swo
